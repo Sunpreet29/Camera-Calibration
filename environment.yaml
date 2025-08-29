@@ -1,0 +1,10 @@
+name: camera-calibration
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python>=3.10
+  - pip
+  - numpy>=2.1
+  - matplotlib>=3.10
+  - opencv>=4.8
